@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+body{
+    margin: 0;
+}
+
+
+
+
+#typing-effect {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    white-space: pre-wrap;
+    color: #ffffff;
+    font-weight: bold;
+  }
